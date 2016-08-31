@@ -1,0 +1,84 @@
+.container{
+width: 100%;
+margin-top: 10px;
+margin-left: 10px;
+margin-right: 10px;
+
+
+}
+header{
+	background-color: black;
+	width: 100%
+	height:50%;
+
+}
+
+
+nav a{
+
+	text-decoration: none;
+	color:white;
+	margin-left: 30%;
+	margin-bottom: 50%;
+	margin-top: 50%;
+	margin-right: 30%;
+
+
+}
+
+li{
+
+	font-color:white;
+	display: inline-block;
+	float: left;
+	margin-right: 10px;
+	margin-left: 70px;
+	margin-bottom: 50px;
+	margin-top: 20px;
+}
+
+section{
+	border-color: grey;
+	background-color: grey;
+	height: 40%;
+	width: 100%;
+	margin-bottom:20px;
+
+}
+
+h3{
+	margin-left:20px;
+	width: 20%;
+	display: inline-block;
+	color: black;
+}
+
+h6{
+
+	display: inline-block;
+	color: blue;
+	margin-right:90px;
+}
+
+.episodes{
+
+	background-color: grey;
+	border:1px solid grey;
+}
+
+.foto{
+	float: left;
+
+}
+
+.fotito{
+
+	float: left;
+	
+	width: 70%;
+	height: 70%;
+	margin-right: 10px;
+	
+}
+
+

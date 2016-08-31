@@ -1,0 +1,462 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"d",
+				"display"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"cont",
+				"contenedor"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"icno",
+				"icono"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"let",
+				"left"
+			],
+			[
+				"caja",
+				"caja3	(main.css)"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"il",
+				"inline-block"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"me",
+				"meta	Tag"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"css",
+				"css/"
+			],
+			[
+				"p",
+				"padding-right"
+			],
+			[
+				"bor",
+				"border-left"
+			],
+			[
+				"color",
+				"color"
+			],
+			[
+				"t",
+				"title	Tag"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"pokemo",
+				"Pokemon-Go-1-640x336.jpg	w:640 h:336"
+			],
+			[
+				"im",
+				"img/"
+			],
+			[
+				"i",
+				"img	Tag"
+			],
+			[
+				"b",
+				"black	(index.html)"
+			],
+			[
+				"h",
+				"h5	Tag"
+			],
+			[
+				"co",
+				"COVER-Joven-causa-accidente-por-jugar-Pokemon-Go-en-medio-de-la-carretera-520x272.jpg	w:520 h:272"
+			],
+			[
+				"img",
+				"img"
+			],
+			[
+				"clor",
+				"color"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"hr",
+				"href"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "package control: install",
+		"selected_items":
+		[
+			[
+				"package control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/laboratoria/sprint1/mi-primer-layout/mi-primer-layout/css/main.css",
+		"/C/laboratoria/sprint1/mi-primer-layout/mi-primer-layout/index.html",
+		"/C/laboratoria/sprint1/mi-primer-layout/mi-primer-layout/coder-detail.html",
+		"/E/Laboratoria/solucionariosesion8/miprimerlayout/Solución/css/grid-system.css",
+		"/E/Laboratoria/solucionariosesion8/miprimerlayout/Solución/css/main.css",
+		"/E/Laboratoria/solucionariosesion8/miprimerlayout/Solución/coder-detail.html",
+		"/E/Laboratoria/solucionariosesion8/miprimerlayout/Solución/index.html",
+		"/E/Laboratoria/Paula/mi-primer-layout/css/main.css",
+		"/E/Laboratoria/Paula/mi-primer-layout/index.html",
+		"/E/Laboratoria/solucionariosesion8/miprimerlayout/Mi-primer-layout.zip",
+		"/C/laboratoria/sprint1/display table cell/Problema/css/main.css",
+		"/C/laboratoria/sprint1/display table cell/Problema/index.html",
+		"/C/laboratoria/precacucionespkm/pokemongo/index.html",
+		"/C/laboratoria/sprint1/tipografia/index.html",
+		"/C/laboratoria/sprint1/tipografia/font-face/style.css",
+		"/C/laboratoria/sprint1/tipografia/css/main.css",
+		"/C/laboratoria/pokemonprecauciones/pokemon.html",
+		"/C/laboratoria/sprint1/tipografia/tipografiaseiconos/css/main.css",
+		"/C/laboratoria/sprint1/tipografia/font-face/demo.html",
+		"/C/laboratoria/sprint1/tipografia/tipografiaseiconos/font-face/style.css",
+		"/C/laboratoria/sprint1/tipografia/tipografiaseiconos/index.html",
+		"/C/laboratoria/sprint1/positioning2/positioning2/parte2/index.html",
+		"/C/laboratoria/sprint1/nuestras-coders/Font/style.css",
+		"/C/laboratoria/sprint1/nuestras-coders/nuestras-coders/css/main.css",
+		"/C/laboratoria/sprint1/nuestras-coders/nuestras-coders/index.html",
+		"/C/laboratoria/sprint1/la-cancha/la-cancha/index.html",
+		"/C/laboratoria/sprint1/la-cancha/la-cancha/css/main.css",
+		"/C/laboratoria/sprint1/nuestras-coders/nuestras-coders.zip",
+		"/C/laboratoria/sprint1/positioning/positioning/parte4/css/main.css",
+		"/C/laboratoria/sprint1/positioning/positioning/parte4/index.html",
+		"/C/laboratoria/sprint1/positioning/positioning/parte2/css/main.css",
+		"/C/laboratoria/sprint1/positioning/positioning/parte2/index.html",
+		"/C/laboratoria/sprint1/positioning/positioning/parte1/index.html",
+		"/C/laboratoria/sprint1/positioning/positioning/parte6/css/main.css",
+		"/C/laboratoria/sprint1/positioning/positioning/parte1/css/main.css",
+		"/C/laboratoria/sprint1/positioning/positioning/parte6/index.html",
+		"/C/laboratoria/precauciones/pokemongo/index.html",
+		"/C/laboratoria/precauciones/pokemon.html",
+		"/C/laboratoria/pokemongo/index.html",
+		"/C/laboratoria/8-cajas/css/main.css",
+		"/C/laboratoria/8-cajas/index.html",
+		"/E/Laboratoria/Solución/index.html",
+		"/E/Laboratoria/Solución/main.css",
+		"/C/laboratoria/la-bandera/parte-4/css/main.css",
+		"/C/laboratoria/la-bandera/index.html",
+		"/C/laboratoria/la-bandera/parte-1/index.html",
+		"/C/laboratoria/la-bandera/parte-3/index.html",
+		"/C/laboratoria/la-bandera/parte-2/index.html",
+		"/C/laboratoria/la-bandera/parte-4/index.html",
+		"/C/laboratoria/la-bandera/parte-3/css/main.css",
+		"/C/laboratoria/la-bandera/parte-2/css/main.css",
+		"/C/laboratoria/margenes-automaticos/index.html",
+		"/C/laboratoria/margin-padding/margin-padding/Parte4/css/main.css",
+		"/C/laboratoria/margin-padding/margin-padding/Parte4/index.html",
+		"/C/laboratoria/margin-padding/margin-padding/Parte3/index.html",
+		"/C/laboratoria/margin-padding/margin-padding/Parte2/css/main.css",
+		"/C/laboratoria/margin-padding/margin-padding/Parte2/index.html",
+		"/C/laboratoria/margenes-automaticos/main.css",
+		"/C/laboratoria/margin-padding/margin-padding/Parte1/index.html",
+		"/C/laboratoria/margin-padding/margin-padding/Parte1/css/main.css",
+		"/C/laboratoria/margin-padding/margin-padding/Parte3/css/main.css",
+		"/C/laboratoria/margin-padding/Problema/Parte2/index.html",
+		"/C/laboratoria/margin-padding/Problema/Parte3/index.html",
+		"/C/laboratoria/margin-padding/Problema/Parte3/css/main.css",
+		"/C/laboratoria/margin-padding/Problema/Parte4/css/main.css",
+		"/C/laboratoria/margin-padding/Problema/Parte4/index.html",
+		"/C/laboratoria/margin-padding/Problema/Parte1/index.html",
+		"/C/laboratoria/margin-padding/Problema/Parte1/css/main.css",
+		"/C/laboratoria/modelo-caja/index.html",
+		"/C/laboratoria/modelo-caja/css/main.css",
+		"/C/laboratoria/Ejercicio_css_garden/Ejercicio css garden/index.html",
+		"/C/laboratoria/Ejercicio_css_garden/Ejercicio css garden/style.css",
+		"/C/laboratoria/Ejercicio_css_garden/Ejercicio_css_garden/index.html",
+		"/C/laboratoria/Homework/Pokemon.html",
+		"/C/laboratoria/sprint1/conociendo-html/conociendo-html/conociendo-html/index.html",
+		"/C/laboratoria/lenguajes-web-1/lenguajes-web-1/index.html",
+		"/C/laboratoria/Homework/img/Pokemon-Go-1-640x336.jpg",
+		"/C/laboratoria/lenguajes-web-1/lenguajes-web-1/style.css",
+		"/C/laboratoria/Homework/img/COVER-Joven-causa-accidente-por-jugar-Pokemon-Go-en-medio-de-la-carretera-520x272.jpg",
+		"/E/Laboratoria/LenguajesWeb/Parte3/index.html",
+		"/C/laboratoria/viendocajas/viendo-cajas/index.html",
+		"/C/laboratoria/viendocajas/viendo-cajas.zip",
+		"/C/laboratoria/sprint1/conociendo-html/conociendo-html/conociendo-html/favicon.ico",
+		"/C/laboratoria/sprint1/conociendo-html/conociendo-html.zip"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
