@@ -19,7 +19,7 @@ nav a{
 	text-decoration: none;
 	color:white;
 	margin-left: 30%;
-	margin-bottom: 50%;
+	
 	margin-top: 50%;
 	margin-right: 30%;
 
@@ -39,10 +39,10 @@ li{
 
 section{
 	border-color: grey;
-	background-color: grey;
+	background-color: white;
 	height: 40%;
 	width: 100%;
-	margin-bottom:20px;
+	text-align: center;
 
 }
 
@@ -63,22 +63,85 @@ h6{
 .episodes{
 
 	background-color: grey;
-	border:1px solid grey;
+	
 }
 
 .foto{
 	float: left;
+	margin-left:2px;
 
 }
 
-.fotito{
 
+ .icono{
+ 	width: 10px;
+ 	height: 10px;
+ 	margin-top:10px;
+ }
+
+h6{
+	color: blue;
+}
+
+.fotito1{
+	
 	float: left;
+	margin: 5px;
+	border:1px solid white;
+
 	
-	width: 70%;
-	height: 70%;
-	margin-right: 10px;
+
 	
 }
 
+.fotito2{
+	
+	float: left;
+	margin: 0 auto;
+	border:1px solid white;
+	
+}
+.fotito3{
+	
+	float: left;
+	margin: 0 auto;
+	border:1px solid white;
+	}
+.fotito4{
+	
+	float: left;
+	margin: 0 auto;
+	border:1px solid white;
+	
+}
+.fotito5{
+	
+	float: left;
+	margin: 0 auto;
+	border:1px solid white;
+}
+.fotito6{
+	float: left;
+	margin: 0 auto;
+	border:1px solid white;
+	
+}
+.fotito7{
+	
+	float: left;
+	margin: 0 auto;
+	border:1px solid white;
+}
 
+a{
+	color:blue;
+}
+hr{
+	color: blue;
+}
+
+footer{
+	text-align: center;
+	background-color: grey;
+	color: white;
+}
